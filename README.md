@@ -143,9 +143,3 @@ dfde80834bab1b006b89218d3fbc638a99eefc59f647f5d90fee0c36f1309e9d  tx-broadcaster
 - The tool only supports the networks and assets listed above. Do not use it for other chains or tokens.
 - The broadcaster connects to **public nodes** (for example publicnode, drpc, llamarpc). Those operators can see your IP address and which transaction you send. They cannot change it or take your funds.
 - Fee presets are only rough starting points. Check current gas before signing.
-
----
-
-## License
-
-Add your license here (for example MIT).
