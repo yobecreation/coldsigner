@@ -1,5 +1,7 @@
 # Cold Signer + Tx Broadcaster
 
+![Cold Signer](COLDSIGNER.jpg)
+
 Two small HTML files to send **Ethereum, Polygon and BNB Chain** transactions with your private key on a computer that is **never connected to the internet**.
 
 No install. No server. No account. Each tool is a **single HTML file** that you open in a browser.
